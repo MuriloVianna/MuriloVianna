@@ -1,19 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/MuriloVianna/MuriloVianna/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Murilo+Vianna;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> (colocasr mini resumo) </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MuriloVianna&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-MuriloVianna.vercel.app/api/top-langs/?username=MuriloVianna&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloVianna&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Murilo Vianna github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloVianna&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
+</div>
+
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
@@ -45,4 +45,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
