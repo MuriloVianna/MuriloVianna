@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Sou um estudante dedicado atualmente cursando Análise e Desenvolvimento de Software, novo na área, mas com uma grande vontade de aprender e crescer. Tenho uma paixão pelo aprendizado contínuo e pela exploração de novas tecnologias. </p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Sou um estudante dedicado atualmente cursando Análise e Desenvolvimento de Sistemas, novo na área, mas com uma grande vontade de aprender e crescer. Tenho uma paixão pelo aprendizado contínuo e pela exploração de novas tecnologias. </p>&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloVianna&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Murilo Vianna github stats" /> 
