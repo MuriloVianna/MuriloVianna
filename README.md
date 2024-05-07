@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Sou apaixonado por resolver problemas complexos e transformar ideias em realidade por meio da tecnologia. Tenho um forte compromisso com a aprendizagem contínua e estou sempre buscando novas oportunidades para aprimorar minhas habilidades e conhecimentos. </p>&nbsp;
+<p align="center">I ❤️ to solve great challenges using tech. <br><br> Sou apaixonado por resolver problemas complexos e transformar ideias em realidade por meio da tecnologia. Tenho um forte compromisso com a aprendizagem contínua e estou sempre buscando novas oportunidades para aprimorar minhas habilidades e conhecimentos. </p>&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloVianna&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Murilo Vianna github stats" /> 
